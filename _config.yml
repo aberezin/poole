@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                  
 paginate:            1
-baseurl:             ""
+baseurl:             "http://aberezin.github.io/poole"
 
 # Assets
 #
